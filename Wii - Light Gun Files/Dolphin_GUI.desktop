@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dolphin Emulator GUI
+Comment=Launch the Dolphin Emulator GUI for configuration
+Exec=env QT_QPA_PLATFORM=xcb /opt/retropie/emulators/dolphin/bin/dolphin-emu
+Icon=dolphin-emu
+Path=
+Terminal=false
+StartupNotify=true
+Categories=Game;Emulator;
