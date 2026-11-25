@@ -15,3 +15,8 @@ This diagram illustrates the connections for our RetroPie setup on the Raspberry
 ## 🎬 Videos - WiiSlinger Guides
 * [Tastic Hacks - YouTube.com](http://www.youtube.com/@TasticHacks)
 
+<p align="left">
+  <a href="https://youtu.be/a0u_GCxL2fE">
+    <img src="images/YouTube-WiiSlinger-WiiGames-Thumb-1.png" width="44%" />
+  </a>
+</p>
