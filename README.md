@@ -11,3 +11,7 @@ For the hardware, you’ll need 2 Wiimote controllers and 2 Mayflash Dolphinbar 
 This diagram illustrates the connections for our RetroPie setup on the Raspberry Pi 5.  Note, I also use 8bitdo’s SN30 Pro controllers as my primary controller for retrogaming, and I’ll speak to that more here in a bit.
 
 <img src="images/WiiSlinger-Hardware-Diagram-1.png" width="70%" />
+
+## 🎬 Videos - WiiSlinger Guides
+* [Tastic Hacks - YouTube.com](http://www.youtube.com/@TasticHacks)
+
