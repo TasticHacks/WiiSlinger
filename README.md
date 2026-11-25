@@ -2,7 +2,7 @@
 
 <img src="images/WiiSlinger-Logo-1.png" width="70%" />
 
-The WiiSlinger project is our unified effort at organizing the files and guidance for creating this single universal light gun retrogaming setup across all emulators.  The project URL below is where you’ll be able to find the configuration files we’ll be referencing and other helpful materials.
+The WiiSlinger project is our unified effort at organizing the files and guidance for creating this single universal light gun retrogaming setup across all emulators.  This is where you’ll be able to find the configuration files we’ll be referencing in our videos and other helpful materials.
 
 <img src="images/WiiSlinger-LogicalOverview-Blue-1.png" width="70%" />
 
