@@ -8,7 +8,7 @@ The WiiSlinger project is our unified effort at organizing the files and guidanc
 
 For the hardware, you’ll need 2 Wiimote controllers and 2 Mayflash Dolphinbar receivers set to “Mode 2” (one dedicated to each Wiimote).  Note, I recommend using an official Wii Wiimote (which will have the “Wii” logo at the bottom on the controller).  I’ve heard generic Wiimote hardware copies tend to be problematic.  
 
-This diagram illustrates the connections for our RetroPie setup on the Raspberry Pi 5.  Note, I also use 8bitdo’s SN30 Pro controllers as my primary controller for retrogaming, and I’ll speak to that more here in a bit.
+This diagram illustrates the connections for our RetroPie setup on the Raspberry Pi 5.  Note, I also use 8bitdo’s SN30 Pro controllers as my primary controller for retrogaming.
 
 <img src="images/WiiSlinger-Hardware-Diagram-1.png" width="70%" />
 
